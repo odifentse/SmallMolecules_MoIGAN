@@ -1,5 +1,5 @@
 # SmallMolecules_MoIGAN
-Using the Tox21 database accessed through MolNet.
+Using the Tox21 dataset accessed through MolNet.
 
 Reference: https://colab.research.google.com/github/deepchem/deepchem/blob/master/examples/tutorials/Generating_molecules_with_MolGAN.ipynb#scrollTo=VQ9mMmseaVH_
 
