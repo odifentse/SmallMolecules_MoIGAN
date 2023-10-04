@@ -50,7 +50,7 @@ df   # Display the total dataset - a total of 6264 molecules
 
 # The higher the number of atoms the more data you will have in the dataset, which will make the model more complex (as the input dimensions become higher).
 
-num_atoms = 120
+num_atoms = 12 
 
 data = df
 data
